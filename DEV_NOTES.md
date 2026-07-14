@@ -27,3 +27,8 @@ Personal development log — notes, findings, and ongoing work.
 - Updated CI cache strategy
 - Fixed off-by-one error in loop
 - Added CONTRIBUTING.md stub
+
+## 2026-07-15
+- Resolved deprecation warnings
+- Cross-checked behaviour against spec
+- Noted known limitation in docs
