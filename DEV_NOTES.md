@@ -22,3 +22,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-07-15
 - Updated .gitignore to exclude build artifacts
+
+## 2026-07-15
+- Updated CI cache strategy
+- Fixed off-by-one error in loop
+- Added CONTRIBUTING.md stub
