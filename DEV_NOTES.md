@@ -19,3 +19,6 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-07-01
 - Documented config options
+
+## 2026-07-15
+- Updated .gitignore to exclude build artifacts
