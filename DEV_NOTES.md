@@ -40,3 +40,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-08-05
 - Consolidated duplicate helper functions
+
+## 2026-08-05
+- Removed unused variable declarations
+- Added .editorconfig for consistent formatting
+- Cleaned up old debug logs
