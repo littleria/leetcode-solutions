@@ -32,3 +32,8 @@ Personal development log — notes, findings, and ongoing work.
 - Resolved deprecation warnings
 - Cross-checked behaviour against spec
 - Noted known limitation in docs
+
+## 2026-08-05
+- Fixed off-by-one error in loop
+- Resolved TODO items from previous session
+- Checked for memory leaks in long-running path
