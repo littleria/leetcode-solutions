@@ -45,3 +45,7 @@ Personal development log — notes, findings, and ongoing work.
 - Removed unused variable declarations
 - Added .editorconfig for consistent formatting
 - Cleaned up old debug logs
+
+## 2026-08-12
+- Wrote notes on upcoming feature design
+- Resolved deprecation warnings
