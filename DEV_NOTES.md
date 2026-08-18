@@ -49,3 +49,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-08-12
 - Wrote notes on upcoming feature design
 - Resolved deprecation warnings
+
+## 2026-08-19
+- Added basic retry logic for network requests
+- Added healthcheck endpoint stub
