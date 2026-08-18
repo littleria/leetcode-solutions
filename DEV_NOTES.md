@@ -58,3 +58,6 @@ Personal development log — notes, findings, and ongoing work.
 - Checked for memory leaks in long-running path
 - Refactored module structure for clarity
 - Updated license year
+
+## 2026-08-19
+- Resolved deprecation warnings
