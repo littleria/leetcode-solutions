@@ -67,3 +67,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-09-09
 - Cleaned up old debug logs
+
+## 2026-09-09
+- Removed unused variable declarations
+- Refactored module structure for clarity
+- Drafted initial implementation plan for v2
