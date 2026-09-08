@@ -64,3 +64,6 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-09-02
 - Addressed feedback from self code review
+
+## 2026-09-09
+- Cleaned up old debug logs
