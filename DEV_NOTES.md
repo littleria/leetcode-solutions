@@ -72,3 +72,7 @@ Personal development log — notes, findings, and ongoing work.
 - Removed unused variable declarations
 - Refactored module structure for clarity
 - Drafted initial implementation plan for v2
+
+## 2026-09-09
+- Wrote notes on upcoming feature design
+- Addressed feedback from self code review
