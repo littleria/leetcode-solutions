@@ -79,3 +79,7 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-09-23
 - Fixed minor edge case in input handling
+
+## 2026-10-28
+- Fixed minor edge case in input handling
+- Added inline documentation for core functions
