@@ -92,3 +92,8 @@ Personal development log — notes, findings, and ongoing work.
 - Pinned dependency versions for reproducibility
 - Updated .gitignore to exclude build artifacts
 - Reviewed security headers configuration
+
+## 2026-11-18
+- Tidied up project structure
+- Added inline documentation for core functions
+- Updated CI cache strategy
