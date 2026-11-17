@@ -97,3 +97,6 @@ Personal development log — notes, findings, and ongoing work.
 - Tidied up project structure
 - Added inline documentation for core functions
 - Updated CI cache strategy
+
+## 2026-11-18
+- Added basic usage examples to README
