@@ -87,3 +87,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-11-11
 - Checked for memory leaks in long-running path
 - Verified API endpoint response schema
+
+## 2026-11-18
+- Pinned dependency versions for reproducibility
+- Updated .gitignore to exclude build artifacts
+- Reviewed security headers configuration
